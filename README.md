@@ -37,10 +37,6 @@
 
 While I was learning Unity at The Tech Academy, I developed the following projects:
 
-
-I am very grateful to the school staff (Adam, Rick, Patrick and others) and especially Andy, who were present throughout the course. Thanks to all.
-
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Projects
